@@ -1,0 +1,13 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "GS1 (Debug .NET Framework)",
+            "type": "clr",
+            "request": "launch",
+            "preLaunchTask": "build-gs1",
+            "program": "${workspaceFolder}/GS1/bin/Debug/GS1.exe",
+            "cwd": "${workspaceFolder}/GS1/bin/Debug"
+        }
+    ]
+}

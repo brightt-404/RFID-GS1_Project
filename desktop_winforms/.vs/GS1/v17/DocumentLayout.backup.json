@@ -1,0 +1,501 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ASUS\\source\\repos\\GS1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B90BBDC4-6090-48EB-82D5-CF26B2FFC45B}|GS1\\GS1.csproj|c:\\users\\asus\\source\\repos\\gs1\\gs1\\logs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B90BBDC4-6090-48EB-82D5-CF26B2FFC45B}|GS1\\GS1.csproj|solutionrelative:gs1\\logs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B90BBDC4-6090-48EB-82D5-CF26B2FFC45B}|GS1\\GS1.csproj|C:\\Users\\ASUS\\source\\repos\\GS1\\gs1\\logs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B90BBDC4-6090-48EB-82D5-CF26B2FFC45B}|GS1\\GS1.csproj|solutionrelative:gs1\\logs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B90BBDC4-6090-48EB-82D5-CF26B2FFC45B}|GS1\\GS1.csproj|C:\\Users\\ASUS\\source\\repos\\GS1\\gs1\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B90BBDC4-6090-48EB-82D5-CF26B2FFC45B}|GS1\\GS1.csproj|solutionrelative:gs1\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B90BBDC4-6090-48EB-82D5-CF26B2FFC45B}|GS1\\GS1.csproj|C:\\Users\\ASUS\\source\\repos\\GS1\\gs1\\scan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B90BBDC4-6090-48EB-82D5-CF26B2FFC45B}|GS1\\GS1.csproj|solutionrelative:gs1\\scan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B90BBDC4-6090-48EB-82D5-CF26B2FFC45B}|GS1\\GS1.csproj|C:\\Users\\ASUS\\source\\repos\\GS1\\gs1\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{B90BBDC4-6090-48EB-82D5-CF26B2FFC45B}|GS1\\GS1.csproj|solutionrelative:gs1\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B90BBDC4-6090-48EB-82D5-CF26B2FFC45B}|GS1\\GS1.csproj|C:\\Users\\ASUS\\source\\repos\\GS1\\gs1\\scan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B90BBDC4-6090-48EB-82D5-CF26B2FFC45B}|GS1\\GS1.csproj|solutionrelative:gs1\\scan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B90BBDC4-6090-48EB-82D5-CF26B2FFC45B}|GS1\\GS1.csproj|C:\\Users\\ASUS\\source\\repos\\GS1\\gs1\\add.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B90BBDC4-6090-48EB-82D5-CF26B2FFC45B}|GS1\\GS1.csproj|solutionrelative:gs1\\add.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B90BBDC4-6090-48EB-82D5-CF26B2FFC45B}|GS1\\GS1.csproj|C:\\Users\\ASUS\\source\\repos\\GS1\\gs1\\mysql\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B90BBDC4-6090-48EB-82D5-CF26B2FFC45B}|GS1\\GS1.csproj|solutionrelative:gs1\\mysql\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B90BBDC4-6090-48EB-82D5-CF26B2FFC45B}|GS1\\GS1.csproj|C:\\Users\\ASUS\\source\\repos\\GS1\\gs1\\add.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B90BBDC4-6090-48EB-82D5-CF26B2FFC45B}|GS1\\GS1.csproj|solutionrelative:gs1\\add.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B90BBDC4-6090-48EB-82D5-CF26B2FFC45B}|GS1\\GS1.csproj|C:\\Users\\ASUS\\source\\repos\\GS1\\gs1\\mysql\\mqttservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B90BBDC4-6090-48EB-82D5-CF26B2FFC45B}|GS1\\GS1.csproj|solutionrelative:gs1\\mysql\\mqttservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B90BBDC4-6090-48EB-82D5-CF26B2FFC45B}|GS1\\GS1.csproj|C:\\Users\\ASUS\\source\\repos\\GS1\\gs1\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B90BBDC4-6090-48EB-82D5-CF26B2FFC45B}|GS1\\GS1.csproj|solutionrelative:gs1\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B90BBDC4-6090-48EB-82D5-CF26B2FFC45B}|GS1\\GS1.csproj|C:\\Users\\ASUS\\source\\repos\\GS1\\gs1\\managers\\session.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B90BBDC4-6090-48EB-82D5-CF26B2FFC45B}|GS1\\GS1.csproj|solutionrelative:gs1\\managers\\session.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B90BBDC4-6090-48EB-82D5-CF26B2FFC45B}|GS1\\GS1.csproj|C:\\Users\\ASUS\\source\\repos\\GS1\\gs1\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B90BBDC4-6090-48EB-82D5-CF26B2FFC45B}|GS1\\GS1.csproj|solutionrelative:gs1\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B90BBDC4-6090-48EB-82D5-CF26B2FFC45B}|GS1\\GS1.csproj|C:\\Users\\ASUS\\source\\repos\\GS1\\gs1\\mainapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B90BBDC4-6090-48EB-82D5-CF26B2FFC45B}|GS1\\GS1.csproj|solutionrelative:gs1\\mainapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B90BBDC4-6090-48EB-82D5-CF26B2FFC45B}|GS1\\GS1.csproj|C:\\Users\\ASUS\\source\\repos\\GS1\\gs1\\managers\\formmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B90BBDC4-6090-48EB-82D5-CF26B2FFC45B}|GS1\\GS1.csproj|solutionrelative:gs1\\managers\\formmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B90BBDC4-6090-48EB-82D5-CF26B2FFC45B}|GS1\\GS1.csproj|C:\\Users\\ASUS\\source\\repos\\GS1\\gs1\\managers\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B90BBDC4-6090-48EB-82D5-CF26B2FFC45B}|GS1\\GS1.csproj|solutionrelative:gs1\\managers\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B90BBDC4-6090-48EB-82D5-CF26B2FFC45B}|GS1\\GS1.csproj|C:\\Users\\ASUS\\source\\repos\\GS1\\gs1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B90BBDC4-6090-48EB-82D5-CF26B2FFC45B}|GS1\\GS1.csproj|solutionrelative:gs1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B90BBDC4-6090-48EB-82D5-CF26B2FFC45B}|GS1\\GS1.csproj|C:\\Users\\ASUS\\source\\repos\\GS1\\gs1\\mainapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B90BBDC4-6090-48EB-82D5-CF26B2FFC45B}|GS1\\GS1.csproj|solutionrelative:gs1\\mainapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B90BBDC4-6090-48EB-82D5-CF26B2FFC45B}|GS1\\GS1.csproj|C:\\Users\\ASUS\\source\\repos\\GS1\\gs1\\mysql\\devicedao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B90BBDC4-6090-48EB-82D5-CF26B2FFC45B}|GS1\\GS1.csproj|solutionrelative:gs1\\mysql\\devicedao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B90BBDC4-6090-48EB-82D5-CF26B2FFC45B}|GS1\\GS1.csproj|C:\\Users\\ASUS\\source\\repos\\GS1\\gs1\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B90BBDC4-6090-48EB-82D5-CF26B2FFC45B}|GS1\\GS1.csproj|solutionrelative:gs1\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B90BBDC4-6090-48EB-82D5-CF26B2FFC45B}|GS1\\GS1.csproj|C:\\Users\\ASUS\\source\\repos\\GS1\\gs1\\devices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B90BBDC4-6090-48EB-82D5-CF26B2FFC45B}|GS1\\GS1.csproj|solutionrelative:gs1\\devices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B90BBDC4-6090-48EB-82D5-CF26B2FFC45B}|GS1\\GS1.csproj|C:\\Users\\ASUS\\source\\repos\\GS1\\gs1\\mysql\\logdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B90BBDC4-6090-48EB-82D5-CF26B2FFC45B}|GS1\\GS1.csproj|solutionrelative:gs1\\mysql\\logdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B90BBDC4-6090-48EB-82D5-CF26B2FFC45B}|GS1\\GS1.csproj|C:\\Users\\ASUS\\source\\repos\\GS1\\gs1\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B90BBDC4-6090-48EB-82D5-CF26B2FFC45B}|GS1\\GS1.csproj|solutionrelative:gs1\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B90BBDC4-6090-48EB-82D5-CF26B2FFC45B}|GS1\\GS1.csproj|C:\\Users\\ASUS\\source\\repos\\GS1\\gs1\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B90BBDC4-6090-48EB-82D5-CF26B2FFC45B}|GS1\\GS1.csproj|solutionrelative:gs1\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B90BBDC4-6090-48EB-82D5-CF26B2FFC45B}|GS1\\GS1.csproj|C:\\Users\\ASUS\\source\\repos\\GS1\\gs1\\devices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B90BBDC4-6090-48EB-82D5-CF26B2FFC45B}|GS1\\GS1.csproj|solutionrelative:gs1\\devices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B90BBDC4-6090-48EB-82D5-CF26B2FFC45B}|GS1\\GS1.csproj|C:\\Users\\ASUS\\source\\repos\\GS1\\gs1\\mysql\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B90BBDC4-6090-48EB-82D5-CF26B2FFC45B}|GS1\\GS1.csproj|solutionrelative:gs1\\mysql\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B90BBDC4-6090-48EB-82D5-CF26B2FFC45B}|GS1\\GS1.csproj|C:\\Users\\ASUS\\source\\repos\\GS1\\gs1\\login.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B90BBDC4-6090-48EB-82D5-CF26B2FFC45B}|GS1\\GS1.csproj|solutionrelative:gs1\\login.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B90BBDC4-6090-48EB-82D5-CF26B2FFC45B}|GS1\\GS1.csproj|C:\\Users\\ASUS\\source\\repos\\GS1\\gs1\\mainapp.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B90BBDC4-6090-48EB-82D5-CF26B2FFC45B}|GS1\\GS1.csproj|solutionrelative:gs1\\mainapp.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B90BBDC4-6090-48EB-82D5-CF26B2FFC45B}|GS1\\GS1.csproj|C:\\Users\\ASUS\\source\\repos\\GS1\\gs1\\users.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B90BBDC4-6090-48EB-82D5-CF26B2FFC45B}|GS1\\GS1.csproj|solutionrelative:gs1\\users.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B90BBDC4-6090-48EB-82D5-CF26B2FFC45B}|GS1\\GS1.csproj|C:\\Users\\ASUS\\source\\repos\\GS1\\gs1\\logs.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B90BBDC4-6090-48EB-82D5-CF26B2FFC45B}|GS1\\GS1.csproj|solutionrelative:gs1\\logs.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Scan.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\GS1\\GS1\\Scan.cs",
+              "RelativeDocumentMoniker": "GS1\\Scan.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\GS1\\GS1\\Scan.cs",
+              "RelativeToolTip": "GS1\\Scan.cs",
+              "ViewState": "AgIAAI0BAAAAAAAAAAAywJoBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-06T02:45:38.62Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Logs.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\GS1\\GS1\\Logs.cs",
+              "RelativeDocumentMoniker": "GS1\\Logs.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\GS1\\GS1\\Logs.cs",
+              "RelativeToolTip": "GS1\\Logs.cs",
+              "ViewState": "AgIAAC4BAAAAAAAAAAAswEIBAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-09T08:28:59.399Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Users.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\GS1\\GS1\\Users.cs",
+              "RelativeDocumentMoniker": "GS1\\Users.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\GS1\\GS1\\Users.cs",
+              "RelativeToolTip": "GS1\\Users.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T06:26:20.675Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\GS1\\GS1\\Login.cs",
+              "RelativeDocumentMoniker": "GS1\\Login.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\GS1\\GS1\\Login.cs",
+              "RelativeToolTip": "GS1\\Login.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAkwEsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-09T14:09:18.187Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Scan.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\GS1\\GS1\\Scan.cs",
+              "RelativeDocumentMoniker": "GS1\\Scan.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\GS1\\GS1\\Scan.cs [Design]",
+              "RelativeToolTip": "GS1\\Scan.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-04T09:19:57.023Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\GS1\\GS1\\App.config",
+              "RelativeDocumentMoniker": "GS1\\App.config",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\GS1\\GS1\\App.config",
+              "RelativeToolTip": "GS1\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-05-27T14:30:03.945Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Add.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\GS1\\GS1\\Add.cs",
+              "RelativeDocumentMoniker": "GS1\\Add.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\GS1\\GS1\\Add.cs [Design]",
+              "RelativeToolTip": "GS1\\Add.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T08:49:23.018Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Users.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\GS1\\GS1\\Users.cs",
+              "RelativeDocumentMoniker": "GS1\\Users.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\GS1\\GS1\\Users.cs [Design]",
+              "RelativeToolTip": "GS1\\Users.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T06:07:31.189Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Logs.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\GS1\\GS1\\Logs.cs",
+              "RelativeDocumentMoniker": "GS1\\Logs.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\GS1\\GS1\\Logs.cs [Design]",
+              "RelativeToolTip": "GS1\\Logs.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-05T09:21:20.656Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Add.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\GS1\\GS1\\Add.cs",
+              "RelativeDocumentMoniker": "GS1\\Add.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\GS1\\GS1\\Add.cs",
+              "RelativeToolTip": "GS1\\Add.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHQAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T08:46:17.155Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Database.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\GS1\\GS1\\MySQL\\Database.cs",
+              "RelativeDocumentMoniker": "GS1\\MySQL\\Database.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\GS1\\GS1\\MySQL\\Database.cs",
+              "RelativeToolTip": "GS1\\MySQL\\Database.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T03:53:20.129Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MqttService.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\GS1\\GS1\\MySQL\\MqttService.cs",
+              "RelativeDocumentMoniker": "GS1\\MySQL\\MqttService.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\GS1\\GS1\\MySQL\\MqttService.cs",
+              "RelativeToolTip": "GS1\\MySQL\\MqttService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEQAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T03:09:39.088Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FormManager.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\GS1\\GS1\\Managers\\FormManager.cs",
+              "RelativeDocumentMoniker": "GS1\\Managers\\FormManager.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\GS1\\GS1\\Managers\\FormManager.cs",
+              "RelativeToolTip": "GS1\\Managers\\FormManager.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAUwBMAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T14:29:50.52Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MainApp.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\GS1\\GS1\\MainApp.cs",
+              "RelativeDocumentMoniker": "GS1\\MainApp.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\GS1\\GS1\\MainApp.cs [Design]",
+              "RelativeToolTip": "GS1\\MainApp.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T14:47:58.133Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Session.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\GS1\\GS1\\Managers\\Session.cs",
+              "RelativeDocumentMoniker": "GS1\\Managers\\Session.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\GS1\\GS1\\Managers\\Session.cs",
+              "RelativeToolTip": "GS1\\Managers\\Session.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-12T08:26:10.217Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UIManager.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\GS1\\GS1\\Managers\\UIManager.cs",
+              "RelativeDocumentMoniker": "GS1\\Managers\\UIManager.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\GS1\\GS1\\Managers\\UIManager.cs",
+              "RelativeToolTip": "GS1\\Managers\\UIManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T15:37:52.495Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "MainApp.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\GS1\\GS1\\MainApp.cs",
+              "RelativeDocumentMoniker": "GS1\\MainApp.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\GS1\\GS1\\MainApp.cs",
+              "RelativeToolTip": "GS1\\MainApp.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADsAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T14:51:35.755Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\GS1\\GS1\\Program.cs",
+              "RelativeDocumentMoniker": "GS1\\Program.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\GS1\\GS1\\Program.cs",
+              "RelativeToolTip": "GS1\\Program.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAuwAsAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T03:09:51.704Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Dashboard.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\GS1\\GS1\\Dashboard.cs",
+              "RelativeDocumentMoniker": "GS1\\Dashboard.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\GS1\\GS1\\Dashboard.cs",
+              "RelativeToolTip": "GS1\\Dashboard.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAuwFQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T12:00:41.092Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "LogDAO.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\GS1\\GS1\\MySQL\\LogDAO.cs",
+              "RelativeDocumentMoniker": "GS1\\MySQL\\LogDAO.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\GS1\\GS1\\MySQL\\LogDAO.cs",
+              "RelativeToolTip": "GS1\\MySQL\\LogDAO.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAywB8AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T10:18:36.488Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "DeviceDAO.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\GS1\\GS1\\MySQL\\DeviceDAO.cs",
+              "RelativeDocumentMoniker": "GS1\\MySQL\\DeviceDAO.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\GS1\\GS1\\MySQL\\DeviceDAO.cs",
+              "RelativeToolTip": "GS1\\MySQL\\DeviceDAO.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAuwB0AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T10:03:45.137Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Devices.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\GS1\\GS1\\Devices.cs",
+              "RelativeDocumentMoniker": "GS1\\Devices.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\GS1\\GS1\\Devices.cs",
+              "RelativeToolTip": "GS1\\Devices.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAkwF4AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T16:26:14.129Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Dashboard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\GS1\\GS1\\Dashboard.cs",
+              "RelativeDocumentMoniker": "GS1\\Dashboard.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\GS1\\GS1\\Dashboard.cs [Design]",
+              "RelativeToolTip": "GS1\\Dashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T12:00:37.713Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Login.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\GS1\\GS1\\Login.cs",
+              "RelativeDocumentMoniker": "GS1\\Login.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\GS1\\GS1\\Login.cs [Design]",
+              "RelativeToolTip": "GS1\\Login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-09T14:09:14.174Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Devices.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\GS1\\GS1\\Devices.cs",
+              "RelativeDocumentMoniker": "GS1\\Devices.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\GS1\\GS1\\Devices.cs [Design]",
+              "RelativeToolTip": "GS1\\Devices.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T16:26:11.728Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\GS1\\GS1\\MySQL\\UserService.cs",
+              "RelativeDocumentMoniker": "GS1\\MySQL\\UserService.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\GS1\\GS1\\MySQL\\UserService.cs",
+              "RelativeToolTip": "GS1\\MySQL\\UserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-09T09:35:15.817Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Login.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\GS1\\GS1\\Login.Designer.cs",
+              "RelativeDocumentMoniker": "GS1\\Login.Designer.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\GS1\\GS1\\Login.Designer.cs",
+              "RelativeToolTip": "GS1\\Login.Designer.cs",
+              "ViewState": "AgIAAK4AAAAAAAAAAAAqwL0AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T14:58:45.753Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "MainApp.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\GS1\\GS1\\MainApp.Designer.cs",
+              "RelativeDocumentMoniker": "GS1\\MainApp.Designer.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\GS1\\GS1\\MainApp.Designer.cs",
+              "RelativeToolTip": "GS1\\MainApp.Designer.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA5wBAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-11T07:28:38.692Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Logs.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\GS1\\GS1\\Logs.Designer.cs",
+              "RelativeDocumentMoniker": "GS1\\Logs.Designer.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\GS1\\GS1\\Logs.Designer.cs",
+              "RelativeToolTip": "GS1\\Logs.Designer.cs",
+              "ViewState": "AgIAAA0BAAAAAAAAAAAqwCgBAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T15:41:51.053Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Users.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\GS1\\GS1\\Users.Designer.cs",
+              "RelativeDocumentMoniker": "GS1\\Users.Designer.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\GS1\\GS1\\Users.Designer.cs",
+              "RelativeToolTip": "GS1\\Users.Designer.cs",
+              "ViewState": "AgIAAN8AAAAAAAAAAAAqwO0AAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T15:42:48.126Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

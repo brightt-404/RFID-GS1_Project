@@ -1,0 +1,543 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\BRIGHTT-404\\Desktop\\RFID-GS1_Project\\RFID-GS1_Project\\desktop_winforms\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B90BBDC4-6090-48EB-82D5-CF26B2FFC45B}|GS1\\GS1.csproj|C:\\Users\\BRIGHTT-404\\Desktop\\RFID-GS1_Project\\RFID-GS1_Project\\desktop_winforms\\gs1\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B90BBDC4-6090-48EB-82D5-CF26B2FFC45B}|GS1\\GS1.csproj|solutionrelative:gs1\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B90BBDC4-6090-48EB-82D5-CF26B2FFC45B}|GS1\\GS1.csproj|C:\\Users\\BRIGHTT-404\\Desktop\\RFID-GS1_Project\\RFID-GS1_Project\\desktop_winforms\\gs1\\devices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B90BBDC4-6090-48EB-82D5-CF26B2FFC45B}|GS1\\GS1.csproj|solutionrelative:gs1\\devices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B90BBDC4-6090-48EB-82D5-CF26B2FFC45B}|GS1\\GS1.csproj|C:\\Users\\BRIGHTT-404\\Desktop\\RFID-GS1_Project\\RFID-GS1_Project\\desktop_winforms\\gs1\\logs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B90BBDC4-6090-48EB-82D5-CF26B2FFC45B}|GS1\\GS1.csproj|solutionrelative:gs1\\logs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B90BBDC4-6090-48EB-82D5-CF26B2FFC45B}|GS1\\GS1.csproj|C:\\Users\\BRIGHTT-404\\Desktop\\RFID-GS1_Project\\RFID-GS1_Project\\desktop_winforms\\gs1\\devices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B90BBDC4-6090-48EB-82D5-CF26B2FFC45B}|GS1\\GS1.csproj|solutionrelative:gs1\\devices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B90BBDC4-6090-48EB-82D5-CF26B2FFC45B}|GS1\\GS1.csproj|c:\\users\\brightt-404\\desktop\\rfid-gs1_project\\rfid-gs1_project\\desktop_winforms\\gs1\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B90BBDC4-6090-48EB-82D5-CF26B2FFC45B}|GS1\\GS1.csproj|solutionrelative:gs1\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B90BBDC4-6090-48EB-82D5-CF26B2FFC45B}|GS1\\GS1.csproj|C:\\Users\\BRIGHTT-404\\Desktop\\RFID-GS1_Project\\RFID-GS1_Project\\desktop_winforms\\gs1\\add.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B90BBDC4-6090-48EB-82D5-CF26B2FFC45B}|GS1\\GS1.csproj|solutionrelative:gs1\\add.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B90BBDC4-6090-48EB-82D5-CF26B2FFC45B}|GS1\\GS1.csproj|C:\\Users\\BRIGHTT-404\\Desktop\\RFID-GS1_Project\\RFID-GS1_Project\\desktop_winforms\\gs1\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{B90BBDC4-6090-48EB-82D5-CF26B2FFC45B}|GS1\\GS1.csproj|solutionrelative:gs1\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B90BBDC4-6090-48EB-82D5-CF26B2FFC45B}|GS1\\GS1.csproj|C:\\Users\\BRIGHTT-404\\Desktop\\RFID-GS1_Project\\RFID-GS1_Project\\desktop_winforms\\gs1\\managers\\formmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B90BBDC4-6090-48EB-82D5-CF26B2FFC45B}|GS1\\GS1.csproj|solutionrelative:gs1\\managers\\formmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B90BBDC4-6090-48EB-82D5-CF26B2FFC45B}|GS1\\GS1.csproj|c:\\users\\brightt-404\\desktop\\rfid-gs1_project\\rfid-gs1_project\\desktop_winforms\\gs1\\managers\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B90BBDC4-6090-48EB-82D5-CF26B2FFC45B}|GS1\\GS1.csproj|solutionrelative:gs1\\managers\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B90BBDC4-6090-48EB-82D5-CF26B2FFC45B}|GS1\\GS1.csproj|C:\\Users\\BRIGHTT-404\\Desktop\\RFID-GS1_Project\\RFID-GS1_Project\\desktop_winforms\\gs1\\managers\\session.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B90BBDC4-6090-48EB-82D5-CF26B2FFC45B}|GS1\\GS1.csproj|solutionrelative:gs1\\managers\\session.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B90BBDC4-6090-48EB-82D5-CF26B2FFC45B}|GS1\\GS1.csproj|C:\\Users\\BRIGHTT-404\\Desktop\\RFID-GS1_Project\\RFID-GS1_Project\\desktop_winforms\\gs1\\logs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B90BBDC4-6090-48EB-82D5-CF26B2FFC45B}|GS1\\GS1.csproj|solutionrelative:gs1\\logs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B90BBDC4-6090-48EB-82D5-CF26B2FFC45B}|GS1\\GS1.csproj|C:\\Users\\BRIGHTT-404\\Desktop\\RFID-GS1_Project\\RFID-GS1_Project\\desktop_winforms\\gs1\\mainapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B90BBDC4-6090-48EB-82D5-CF26B2FFC45B}|GS1\\GS1.csproj|solutionrelative:gs1\\mainapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B90BBDC4-6090-48EB-82D5-CF26B2FFC45B}|GS1\\GS1.csproj|C:\\Users\\BRIGHTT-404\\Desktop\\RFID-GS1_Project\\RFID-GS1_Project\\desktop_winforms\\gs1\\scan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B90BBDC4-6090-48EB-82D5-CF26B2FFC45B}|GS1\\GS1.csproj|solutionrelative:gs1\\scan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B90BBDC4-6090-48EB-82D5-CF26B2FFC45B}|GS1\\GS1.csproj|C:\\Users\\BRIGHTT-404\\Desktop\\RFID-GS1_Project\\RFID-GS1_Project\\desktop_winforms\\gs1\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B90BBDC4-6090-48EB-82D5-CF26B2FFC45B}|GS1\\GS1.csproj|solutionrelative:gs1\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B90BBDC4-6090-48EB-82D5-CF26B2FFC45B}|GS1\\GS1.csproj|C:\\Users\\BRIGHTT-404\\Desktop\\RFID-GS1_Project\\RFID-GS1_Project\\desktop_winforms\\gs1\\scan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B90BBDC4-6090-48EB-82D5-CF26B2FFC45B}|GS1\\GS1.csproj|solutionrelative:gs1\\scan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B90BBDC4-6090-48EB-82D5-CF26B2FFC45B}|GS1\\GS1.csproj|C:\\Users\\BRIGHTT-404\\Desktop\\RFID-GS1_Project\\RFID-GS1_Project\\desktop_winforms\\gs1\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B90BBDC4-6090-48EB-82D5-CF26B2FFC45B}|GS1\\GS1.csproj|solutionrelative:gs1\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B90BBDC4-6090-48EB-82D5-CF26B2FFC45B}|GS1\\GS1.csproj|C:\\Users\\BRIGHTT-404\\Desktop\\RFID-GS1_Project\\RFID-GS1_Project\\desktop_winforms\\gs1\\mainapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B90BBDC4-6090-48EB-82D5-CF26B2FFC45B}|GS1\\GS1.csproj|solutionrelative:gs1\\mainapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B90BBDC4-6090-48EB-82D5-CF26B2FFC45B}|GS1\\GS1.csproj|C:\\Users\\BRIGHTT-404\\Desktop\\RFID-GS1_Project\\RFID-GS1_Project\\desktop_winforms\\gs1\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B90BBDC4-6090-48EB-82D5-CF26B2FFC45B}|GS1\\GS1.csproj|solutionrelative:gs1\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B90BBDC4-6090-48EB-82D5-CF26B2FFC45B}|GS1\\GS1.csproj|C:\\Users\\BRIGHTT-404\\Desktop\\RFID-GS1_Project\\RFID-GS1_Project\\desktop_winforms\\gs1\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{B90BBDC4-6090-48EB-82D5-CF26B2FFC45B}|GS1\\GS1.csproj|solutionrelative:gs1\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B90BBDC4-6090-48EB-82D5-CF26B2FFC45B}|GS1\\GS1.csproj|C:\\Users\\BRIGHTT-404\\Desktop\\RFID-GS1_Project\\RFID-GS1_Project\\desktop_winforms\\gs1\\mysql\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B90BBDC4-6090-48EB-82D5-CF26B2FFC45B}|GS1\\GS1.csproj|solutionrelative:gs1\\mysql\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B90BBDC4-6090-48EB-82D5-CF26B2FFC45B}|GS1\\GS1.csproj|C:\\Users\\BRIGHTT-404\\Desktop\\RFID-GS1_Project\\RFID-GS1_Project\\desktop_winforms\\gs1\\mysql\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B90BBDC4-6090-48EB-82D5-CF26B2FFC45B}|GS1\\GS1.csproj|solutionrelative:gs1\\mysql\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B90BBDC4-6090-48EB-82D5-CF26B2FFC45B}|GS1\\GS1.csproj|C:\\Users\\BRIGHTT-404\\Desktop\\RFID-GS1_Project\\RFID-GS1_Project\\desktop_winforms\\gs1\\mysql\\mqttservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B90BBDC4-6090-48EB-82D5-CF26B2FFC45B}|GS1\\GS1.csproj|solutionrelative:gs1\\mysql\\mqttservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B90BBDC4-6090-48EB-82D5-CF26B2FFC45B}|GS1\\GS1.csproj|C:\\Users\\BRIGHTT-404\\Desktop\\RFID-GS1_Project\\RFID-GS1_Project\\desktop_winforms\\gs1\\mysql\\logdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B90BBDC4-6090-48EB-82D5-CF26B2FFC45B}|GS1\\GS1.csproj|solutionrelative:gs1\\mysql\\logdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B90BBDC4-6090-48EB-82D5-CF26B2FFC45B}|GS1\\GS1.csproj|C:\\Users\\BRIGHTT-404\\Desktop\\RFID-GS1_Project\\RFID-GS1_Project\\desktop_winforms\\gs1\\mysql\\devicedao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B90BBDC4-6090-48EB-82D5-CF26B2FFC45B}|GS1\\GS1.csproj|solutionrelative:gs1\\mysql\\devicedao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B90BBDC4-6090-48EB-82D5-CF26B2FFC45B}|GS1\\GS1.csproj|C:\\Users\\BRIGHTT-404\\Desktop\\RFID-GS1_Project\\RFID-GS1_Project\\desktop_winforms\\gs1\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B90BBDC4-6090-48EB-82D5-CF26B2FFC45B}|GS1\\GS1.csproj|solutionrelative:gs1\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B90BBDC4-6090-48EB-82D5-CF26B2FFC45B}|GS1\\GS1.csproj|C:\\Users\\BRIGHTT-404\\Desktop\\RFID-GS1_Project\\RFID-GS1_Project\\desktop_winforms\\gs1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B90BBDC4-6090-48EB-82D5-CF26B2FFC45B}|GS1\\GS1.csproj|solutionrelative:gs1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B90BBDC4-6090-48EB-82D5-CF26B2FFC45B}|GS1\\GS1.csproj|C:\\Users\\BRIGHTT-404\\Desktop\\RFID-GS1_Project\\RFID-GS1_Project\\desktop_winforms\\gs1\\add.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B90BBDC4-6090-48EB-82D5-CF26B2FFC45B}|GS1\\GS1.csproj|solutionrelative:gs1\\add.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B90BBDC4-6090-48EB-82D5-CF26B2FFC45B}|GS1\\GS1.csproj|C:\\Users\\BRIGHTT-404\\Desktop\\RFID-GS1_Project\\RFID-GS1_Project\\desktop_winforms\\gs1\\login.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B90BBDC4-6090-48EB-82D5-CF26B2FFC45B}|GS1\\GS1.csproj|solutionrelative:gs1\\login.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B90BBDC4-6090-48EB-82D5-CF26B2FFC45B}|GS1\\GS1.csproj|C:\\Users\\BRIGHTT-404\\Desktop\\RFID-GS1_Project\\RFID-GS1_Project\\desktop_winforms\\gs1\\mainapp.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B90BBDC4-6090-48EB-82D5-CF26B2FFC45B}|GS1\\GS1.csproj|solutionrelative:gs1\\mainapp.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B90BBDC4-6090-48EB-82D5-CF26B2FFC45B}|GS1\\GS1.csproj|C:\\Users\\BRIGHTT-404\\Desktop\\RFID-GS1_Project\\RFID-GS1_Project\\desktop_winforms\\gs1\\users.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B90BBDC4-6090-48EB-82D5-CF26B2FFC45B}|GS1\\GS1.csproj|solutionrelative:gs1\\users.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B90BBDC4-6090-48EB-82D5-CF26B2FFC45B}|GS1\\GS1.csproj|C:\\Users\\BRIGHTT-404\\Desktop\\RFID-GS1_Project\\RFID-GS1_Project\\desktop_winforms\\gs1\\logs.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B90BBDC4-6090-48EB-82D5-CF26B2FFC45B}|GS1\\GS1.csproj|solutionrelative:gs1\\logs.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Scan.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\BRIGHTT-404\\Desktop\\RFID-GS1_Project\\RFID-GS1_Project\\desktop_winforms\\GS1\\Scan.cs",
+              "RelativeDocumentMoniker": "GS1\\Scan.cs",
+              "ToolTip": "C:\\Users\\BRIGHTT-404\\Desktop\\RFID-GS1_Project\\RFID-GS1_Project\\desktop_winforms\\GS1\\Scan.cs [Design]",
+              "RelativeToolTip": "GS1\\Scan.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-02T17:20:52.256Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Users.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\BRIGHTT-404\\Desktop\\RFID-GS1_Project\\RFID-GS1_Project\\desktop_winforms\\GS1\\Users.cs",
+              "RelativeDocumentMoniker": "GS1\\Users.cs",
+              "ToolTip": "C:\\Users\\BRIGHTT-404\\Desktop\\RFID-GS1_Project\\RFID-GS1_Project\\desktop_winforms\\GS1\\Users.cs [Design]",
+              "RelativeToolTip": "GS1\\Users.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-02T17:20:54.489Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\BRIGHTT-404\\Desktop\\RFID-GS1_Project\\RFID-GS1_Project\\desktop_winforms\\GS1\\Login.cs",
+              "RelativeDocumentMoniker": "GS1\\Login.cs",
+              "ToolTip": "C:\\Users\\BRIGHTT-404\\Desktop\\RFID-GS1_Project\\RFID-GS1_Project\\desktop_winforms\\GS1\\Login.cs",
+              "RelativeToolTip": "GS1\\Login.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAkwEsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-02T17:20:52.25Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Database.cs",
+              "DocumentMoniker": "C:\\Users\\BRIGHTT-404\\Desktop\\RFID-GS1_Project\\RFID-GS1_Project\\desktop_winforms\\GS1\\MySQL\\Database.cs",
+              "RelativeDocumentMoniker": "GS1\\MySQL\\Database.cs",
+              "ToolTip": "C:\\Users\\BRIGHTT-404\\Desktop\\RFID-GS1_Project\\RFID-GS1_Project\\desktop_winforms\\GS1\\MySQL\\Database.cs",
+              "RelativeToolTip": "GS1\\MySQL\\Database.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAkwEwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-02T17:20:54.518Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "packages.config",
+              "DocumentMoniker": "C:\\Users\\BRIGHTT-404\\Desktop\\RFID-GS1_Project\\RFID-GS1_Project\\desktop_winforms\\GS1\\packages.config",
+              "RelativeDocumentMoniker": "GS1\\packages.config",
+              "ToolTip": "C:\\Users\\BRIGHTT-404\\Desktop\\RFID-GS1_Project\\RFID-GS1_Project\\desktop_winforms\\GS1\\packages.config",
+              "RelativeToolTip": "GS1\\packages.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-07-02T17:48:31.791Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MainApp.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\BRIGHTT-404\\Desktop\\RFID-GS1_Project\\RFID-GS1_Project\\desktop_winforms\\GS1\\MainApp.cs",
+              "RelativeDocumentMoniker": "GS1\\MainApp.cs",
+              "ToolTip": "C:\\Users\\BRIGHTT-404\\Desktop\\RFID-GS1_Project\\RFID-GS1_Project\\desktop_winforms\\GS1\\MainApp.cs [Design]",
+              "RelativeToolTip": "GS1\\MainApp.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-02T17:20:54.523Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Devices.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\BRIGHTT-404\\Desktop\\RFID-GS1_Project\\RFID-GS1_Project\\desktop_winforms\\GS1\\Devices.cs",
+              "RelativeDocumentMoniker": "GS1\\Devices.cs",
+              "ToolTip": "C:\\Users\\BRIGHTT-404\\Desktop\\RFID-GS1_Project\\RFID-GS1_Project\\desktop_winforms\\GS1\\Devices.cs [Design]",
+              "RelativeToolTip": "GS1\\Devices.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-02T17:48:23.548Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Login.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\BRIGHTT-404\\Desktop\\RFID-GS1_Project\\RFID-GS1_Project\\desktop_winforms\\GS1\\Login.cs",
+              "RelativeDocumentMoniker": "GS1\\Login.cs",
+              "ToolTip": "C:\\Users\\BRIGHTT-404\\Desktop\\RFID-GS1_Project\\RFID-GS1_Project\\desktop_winforms\\GS1\\Login.cs [Design]",
+              "RelativeToolTip": "GS1\\Login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-02T17:20:54.538Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Logs.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\BRIGHTT-404\\Desktop\\RFID-GS1_Project\\RFID-GS1_Project\\desktop_winforms\\GS1\\Logs.cs",
+              "RelativeDocumentMoniker": "GS1\\Logs.cs",
+              "ToolTip": "C:\\Users\\BRIGHTT-404\\Desktop\\RFID-GS1_Project\\RFID-GS1_Project\\desktop_winforms\\GS1\\Logs.cs [Design]",
+              "RelativeToolTip": "GS1\\Logs.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-02T17:20:54.515Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Devices.cs",
+              "DocumentMoniker": "C:\\Users\\BRIGHTT-404\\Desktop\\RFID-GS1_Project\\RFID-GS1_Project\\desktop_winforms\\GS1\\Devices.cs",
+              "RelativeDocumentMoniker": "GS1\\Devices.cs",
+              "ToolTip": "C:\\Users\\BRIGHTT-404\\Desktop\\RFID-GS1_Project\\RFID-GS1_Project\\desktop_winforms\\GS1\\Devices.cs",
+              "RelativeToolTip": "GS1\\Devices.cs",
+              "ViewState": "AgIAAHYAAAAAAAAAAAAgwJMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-02T17:20:54.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Dashboard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\BRIGHTT-404\\Desktop\\RFID-GS1_Project\\RFID-GS1_Project\\desktop_winforms\\GS1\\Dashboard.cs",
+              "RelativeDocumentMoniker": "GS1\\Dashboard.cs",
+              "ToolTip": "C:\\Users\\BRIGHTT-404\\Desktop\\RFID-GS1_Project\\RFID-GS1_Project\\desktop_winforms\\GS1\\Dashboard.cs [Design]",
+              "RelativeToolTip": "GS1\\Dashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-02T17:20:54.537Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Add.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\BRIGHTT-404\\Desktop\\RFID-GS1_Project\\RFID-GS1_Project\\desktop_winforms\\GS1\\Add.cs",
+              "RelativeDocumentMoniker": "GS1\\Add.cs",
+              "ToolTip": "C:\\Users\\BRIGHTT-404\\Desktop\\RFID-GS1_Project\\RFID-GS1_Project\\desktop_winforms\\GS1\\Add.cs [Design]",
+              "RelativeToolTip": "GS1\\Add.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-02T17:20:52.259Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\BRIGHTT-404\\Desktop\\RFID-GS1_Project\\RFID-GS1_Project\\desktop_winforms\\GS1\\App.config",
+              "RelativeDocumentMoniker": "GS1\\App.config",
+              "ToolTip": "C:\\Users\\BRIGHTT-404\\Desktop\\RFID-GS1_Project\\RFID-GS1_Project\\desktop_winforms\\GS1\\App.config",
+              "RelativeToolTip": "GS1\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-07-02T17:20:52.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FormManager.cs",
+              "DocumentMoniker": "C:\\Users\\BRIGHTT-404\\Desktop\\RFID-GS1_Project\\RFID-GS1_Project\\desktop_winforms\\GS1\\Managers\\FormManager.cs",
+              "RelativeDocumentMoniker": "GS1\\Managers\\FormManager.cs",
+              "ToolTip": "C:\\Users\\BRIGHTT-404\\Desktop\\RFID-GS1_Project\\RFID-GS1_Project\\desktop_winforms\\GS1\\Managers\\FormManager.cs",
+              "RelativeToolTip": "GS1\\Managers\\FormManager.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAA5wCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-02T17:20:54.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UIManager.cs",
+              "DocumentMoniker": "C:\\Users\\BRIGHTT-404\\Desktop\\RFID-GS1_Project\\RFID-GS1_Project\\desktop_winforms\\GS1\\Managers\\UIManager.cs",
+              "RelativeDocumentMoniker": "GS1\\Managers\\UIManager.cs",
+              "ToolTip": "C:\\Users\\BRIGHTT-404\\Desktop\\RFID-GS1_Project\\RFID-GS1_Project\\desktop_winforms\\GS1\\Managers\\UIManager.cs",
+              "RelativeToolTip": "GS1\\Managers\\UIManager.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAgwCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-02T19:07:41.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Session.cs",
+              "DocumentMoniker": "C:\\Users\\BRIGHTT-404\\Desktop\\RFID-GS1_Project\\RFID-GS1_Project\\desktop_winforms\\GS1\\Managers\\Session.cs",
+              "RelativeDocumentMoniker": "GS1\\Managers\\Session.cs",
+              "ToolTip": "C:\\Users\\BRIGHTT-404\\Desktop\\RFID-GS1_Project\\RFID-GS1_Project\\desktop_winforms\\GS1\\Managers\\Session.cs",
+              "RelativeToolTip": "GS1\\Managers\\Session.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-02T17:20:54.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Logs.cs",
+              "DocumentMoniker": "C:\\Users\\BRIGHTT-404\\Desktop\\RFID-GS1_Project\\RFID-GS1_Project\\desktop_winforms\\GS1\\Logs.cs",
+              "RelativeDocumentMoniker": "GS1\\Logs.cs",
+              "ToolTip": "C:\\Users\\BRIGHTT-404\\Desktop\\RFID-GS1_Project\\RFID-GS1_Project\\desktop_winforms\\GS1\\Logs.cs",
+              "RelativeToolTip": "GS1\\Logs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEYBAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-02T17:20:52.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Scan.cs",
+              "DocumentMoniker": "C:\\Users\\BRIGHTT-404\\Desktop\\RFID-GS1_Project\\RFID-GS1_Project\\desktop_winforms\\GS1\\Scan.cs",
+              "RelativeDocumentMoniker": "GS1\\Scan.cs",
+              "ToolTip": "C:\\Users\\BRIGHTT-404\\Desktop\\RFID-GS1_Project\\RFID-GS1_Project\\desktop_winforms\\GS1\\Scan.cs",
+              "RelativeToolTip": "GS1\\Scan.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-02T17:20:52.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "MainApp.cs",
+              "DocumentMoniker": "C:\\Users\\BRIGHTT-404\\Desktop\\RFID-GS1_Project\\RFID-GS1_Project\\desktop_winforms\\GS1\\MainApp.cs",
+              "RelativeDocumentMoniker": "GS1\\MainApp.cs",
+              "ToolTip": "C:\\Users\\BRIGHTT-404\\Desktop\\RFID-GS1_Project\\RFID-GS1_Project\\desktop_winforms\\GS1\\MainApp.cs",
+              "RelativeToolTip": "GS1\\MainApp.cs",
+              "ViewState": "AgIAAGcAAAAAAAAAAAAIwHUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-02T17:20:54.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Users.cs",
+              "DocumentMoniker": "C:\\Users\\BRIGHTT-404\\Desktop\\RFID-GS1_Project\\RFID-GS1_Project\\desktop_winforms\\GS1\\Users.cs",
+              "RelativeDocumentMoniker": "GS1\\Users.cs",
+              "ToolTip": "C:\\Users\\BRIGHTT-404\\Desktop\\RFID-GS1_Project\\RFID-GS1_Project\\desktop_winforms\\GS1\\Users.cs",
+              "RelativeToolTip": "GS1\\Users.cs",
+              "ViewState": "AgIAAHoAAAAAAAAAAAAywIQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-02T17:20:52.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\BRIGHTT-404\\Desktop\\RFID-GS1_Project\\RFID-GS1_Project\\desktop_winforms\\GS1\\MySQL\\UserService.cs",
+              "RelativeDocumentMoniker": "GS1\\MySQL\\UserService.cs",
+              "ToolTip": "C:\\Users\\BRIGHTT-404\\Desktop\\RFID-GS1_Project\\RFID-GS1_Project\\desktop_winforms\\GS1\\MySQL\\UserService.cs",
+              "RelativeToolTip": "GS1\\MySQL\\UserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-02T17:20:54.541Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "MqttService.cs",
+              "DocumentMoniker": "C:\\Users\\BRIGHTT-404\\Desktop\\RFID-GS1_Project\\RFID-GS1_Project\\desktop_winforms\\GS1\\MySQL\\MqttService.cs",
+              "RelativeDocumentMoniker": "GS1\\MySQL\\MqttService.cs",
+              "ToolTip": "C:\\Users\\BRIGHTT-404\\Desktop\\RFID-GS1_Project\\RFID-GS1_Project\\desktop_winforms\\GS1\\MySQL\\MqttService.cs",
+              "RelativeToolTip": "GS1\\MySQL\\MqttService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEQAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-02T17:20:54.52Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "LogDAO.cs",
+              "DocumentMoniker": "C:\\Users\\BRIGHTT-404\\Desktop\\RFID-GS1_Project\\RFID-GS1_Project\\desktop_winforms\\GS1\\MySQL\\LogDAO.cs",
+              "RelativeDocumentMoniker": "GS1\\MySQL\\LogDAO.cs",
+              "ToolTip": "C:\\Users\\BRIGHTT-404\\Desktop\\RFID-GS1_Project\\RFID-GS1_Project\\desktop_winforms\\GS1\\MySQL\\LogDAO.cs",
+              "RelativeToolTip": "GS1\\MySQL\\LogDAO.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAADwvx8AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-02T17:20:54.532Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "DeviceDAO.cs",
+              "DocumentMoniker": "C:\\Users\\BRIGHTT-404\\Desktop\\RFID-GS1_Project\\RFID-GS1_Project\\desktop_winforms\\GS1\\MySQL\\DeviceDAO.cs",
+              "RelativeDocumentMoniker": "GS1\\MySQL\\DeviceDAO.cs",
+              "ToolTip": "C:\\Users\\BRIGHTT-404\\Desktop\\RFID-GS1_Project\\RFID-GS1_Project\\desktop_winforms\\GS1\\MySQL\\DeviceDAO.cs",
+              "RelativeToolTip": "GS1\\MySQL\\DeviceDAO.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAuwB0AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-02T17:20:54.534Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Dashboard.cs",
+              "DocumentMoniker": "C:\\Users\\BRIGHTT-404\\Desktop\\RFID-GS1_Project\\RFID-GS1_Project\\desktop_winforms\\GS1\\Dashboard.cs",
+              "RelativeDocumentMoniker": "GS1\\Dashboard.cs",
+              "ToolTip": "C:\\Users\\BRIGHTT-404\\Desktop\\RFID-GS1_Project\\RFID-GS1_Project\\desktop_winforms\\GS1\\Dashboard.cs",
+              "RelativeToolTip": "GS1\\Dashboard.cs",
+              "ViewState": "AgIAAI8AAAAAAAAAAAAewJsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-02T17:20:54.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\BRIGHTT-404\\Desktop\\RFID-GS1_Project\\RFID-GS1_Project\\desktop_winforms\\GS1\\Program.cs",
+              "RelativeDocumentMoniker": "GS1\\Program.cs",
+              "ToolTip": "C:\\Users\\BRIGHTT-404\\Desktop\\RFID-GS1_Project\\RFID-GS1_Project\\desktop_winforms\\GS1\\Program.cs",
+              "RelativeToolTip": "GS1\\Program.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAuwAsAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-02T17:20:54.529Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Add.cs",
+              "DocumentMoniker": "C:\\Users\\BRIGHTT-404\\Desktop\\RFID-GS1_Project\\RFID-GS1_Project\\desktop_winforms\\GS1\\Add.cs",
+              "RelativeDocumentMoniker": "GS1\\Add.cs",
+              "ToolTip": "C:\\Users\\BRIGHTT-404\\Desktop\\RFID-GS1_Project\\RFID-GS1_Project\\desktop_winforms\\GS1\\Add.cs",
+              "RelativeToolTip": "GS1\\Add.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHQAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-02T17:20:54.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Login.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\BRIGHTT-404\\Desktop\\RFID-GS1_Project\\RFID-GS1_Project\\desktop_winforms\\GS1\\Login.Designer.cs",
+              "RelativeDocumentMoniker": "GS1\\Login.Designer.cs",
+              "ToolTip": "C:\\Users\\BRIGHTT-404\\Desktop\\RFID-GS1_Project\\RFID-GS1_Project\\desktop_winforms\\GS1\\Login.Designer.cs",
+              "RelativeToolTip": "GS1\\Login.Designer.cs",
+              "ViewState": "AgIAAK4AAAAAAAAAAAAqwL0AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-02T17:20:54.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "MainApp.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\BRIGHTT-404\\Desktop\\RFID-GS1_Project\\RFID-GS1_Project\\desktop_winforms\\GS1\\MainApp.Designer.cs",
+              "RelativeDocumentMoniker": "GS1\\MainApp.Designer.cs",
+              "ToolTip": "C:\\Users\\BRIGHTT-404\\Desktop\\RFID-GS1_Project\\RFID-GS1_Project\\desktop_winforms\\GS1\\MainApp.Designer.cs",
+              "RelativeToolTip": "GS1\\MainApp.Designer.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA5wBAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-02T17:20:54.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Logs.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\BRIGHTT-404\\Desktop\\RFID-GS1_Project\\RFID-GS1_Project\\desktop_winforms\\GS1\\Logs.Designer.cs",
+              "RelativeDocumentMoniker": "GS1\\Logs.Designer.cs",
+              "ToolTip": "C:\\Users\\BRIGHTT-404\\Desktop\\RFID-GS1_Project\\RFID-GS1_Project\\desktop_winforms\\GS1\\Logs.Designer.cs",
+              "RelativeToolTip": "GS1\\Logs.Designer.cs",
+              "ViewState": "AgIAAA0BAAAAAAAAAAAqwCgBAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-02T17:20:54.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Users.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\BRIGHTT-404\\Desktop\\RFID-GS1_Project\\RFID-GS1_Project\\desktop_winforms\\GS1\\Users.Designer.cs",
+              "RelativeDocumentMoniker": "GS1\\Users.Designer.cs",
+              "ToolTip": "C:\\Users\\BRIGHTT-404\\Desktop\\RFID-GS1_Project\\RFID-GS1_Project\\desktop_winforms\\GS1\\Users.Designer.cs",
+              "RelativeToolTip": "GS1\\Users.Designer.cs",
+              "ViewState": "AgIAAN8AAAAAAAAAAAAqwO0AAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-02T17:20:54.548Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
